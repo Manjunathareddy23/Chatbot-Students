@@ -1,6 +1,5 @@
-streamlit
-torch          
 transformers
-openai-whisper
-sounddevice
-pyttsx3
+accelerate
+sentencepiece
+bitsandbytes    
+llama-cpp-python==0.2.24
