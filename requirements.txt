@@ -1,6 +1,6 @@
 streamlit
+torch          
 transformers
-torch
-pyttsx3
 openai-whisper
 sounddevice
+pyttsx3
