@@ -2,4 +2,11 @@ transformers
 accelerate
 sentencepiece
 bitsandbytes    
-llama-cpp-python==0.2.24
+llama-cpp-python
+streamlit
+sounddevice
+soundfile
+pyttsx3
+openai-whisper
+torch
+
