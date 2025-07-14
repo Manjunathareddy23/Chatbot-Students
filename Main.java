@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String apiKey = "YOUR_GEMINI_API_KEY";
+        String apiKey = "AIzaSyAHKXabencMizAeR3GzuqYfg9IJjYDYHos";
 
         ChatBot myBot = new GeminiChatBot("StudyBot", apiKey);
 
